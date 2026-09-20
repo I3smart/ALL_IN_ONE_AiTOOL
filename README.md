@@ -20,3 +20,10 @@ ai_telegram_bot/
     ├── openai_provider.py
     ├── gemini_provider.py
     └── video_provider.py
+# Deploy Your Bot
+
+[![Deploy to Render](https://render.com/images/deploy-to-render.svg)](https://render.com/deploy?repo=https://github.com/I3smart/ALL_IN_ONE_AiTOOL)
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/I3smart/ALL_IN_ONE_AiTOOL)
+
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?templatehttps://github.com/I3smart/ALL_IN_ONE_AiTOOL)
